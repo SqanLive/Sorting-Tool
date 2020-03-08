@@ -4,3 +4,5 @@
 -finding biggest integer in integer based set of data,
 -finding the lingest word in String data,
 -finding the longest line.
+
+#trojka Added cmd argument -sortIntegers, used to access sorted data. Using ArrayList.
