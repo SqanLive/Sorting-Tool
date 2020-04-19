@@ -26,10 +26,10 @@ input> 11 1
 input> 1           1`
 
 output:  
-`Total numbers: 9.  
+Total numbers: 9.  
 2: 1 time(s), 11%  
 3: 1 time(s), 11%  
 11: 1 time(s), 11%  
 42: 1 time(s), 11%  
 333: 1 time(s), 11%  
-1: 4 time(s), 44%`  
+1: 4 time(s), 44%  
