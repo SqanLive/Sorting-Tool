@@ -1,4 +1,4 @@
-# Sorting-Tool
+## Sorting-Tool
 
 #1 Sorting tool based on a command line arguments input. Added 3 functions:
 -finding biggest integer in integer based set of data,
