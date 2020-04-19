@@ -1,14 +1,15 @@
 ## Sorting-Tool
 
-#1 Sorting tool based on a command line arguments input. Added 3 functions:
+# Sorting tool based on a command line arguments input. Added 3 functions:
 -finding biggest integer in integer based set of data,
 -finding the lingest word in String data,
 -finding the longest line.
 
-#trojka Added cmd argument -sortIntegers, used to access sorted data. Using ArrayList.
+# trojka Added cmd argument -sortIntegers, used to access sorted data. Using ArrayList.
 
-#czworka Uploaded final version. 
+# czworka Uploaded final version. 
 
+## General info
 Program parses arguments from command line. Usable arguments are:
 -dataType - long(numbers), line(Sting lines) or word(string).
 -sortingType - natural(from smallest value to biggest) and byCount(sorting by number of repetitions).
@@ -17,8 +18,8 @@ Uses maps, lists, streams.
 Default dataType is long, sortingType is natural.
 
 
-Example:
-java czworka -dataType long -sortingType bycount
+## Example:
+$ java czworka -dataType long -sortingType bycount
 
 input> 1 3 333 2 42
 input> 11 1
