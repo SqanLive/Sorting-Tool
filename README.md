@@ -10,11 +10,11 @@ trojka.java Added cmd argument -sortIntegers, used to access sorted data. Using 
 czworka.java Uploaded final version. 
 
 ## General info
-Program parses arguments from command line. Usable arguments are:
--dataType - long(numbers), line(Sting lines) or word(string).
--sortingType - natural(from smallest value to biggest) and byCount(sorting by number of repetitions).
+Program parses arguments from command line. Usable arguments are:  
+-dataType - long(numbers), line(String lines) or word(string).  
+-sortingType - natural(from smallest value to biggest) and byCount(sorting by number of repetitions).  
 Uses maps, lists, streams.
-
+  
 Default dataType is long, sortingType is natural.
 
 
