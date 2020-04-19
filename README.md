@@ -21,15 +21,15 @@ Default dataType is long, sortingType is natural.
 ## Example:
 `java czworka -dataType long -sortingType bycount`
 
-`input> 1 3 333 2 42
-input> 11 1
+`input> 1 3 333 2 42  
+input> 11 1  
 input> 1           1`
 
-output:
-`Total numbers: 9.
-2: 1 time(s), 11%
-3: 1 time(s), 11%
-11: 1 time(s), 11%
-42: 1 time(s), 11%
-333: 1 time(s), 11%
-1: 4 time(s), 44%`
+output:  
+`Total numbers: 9.  
+2: 1 time(s), 11%  
+3: 1 time(s), 11%  
+11: 1 time(s), 11%  
+42: 1 time(s), 11%  
+333: 1 time(s), 11%  
+1: 4 time(s), 44%`  
